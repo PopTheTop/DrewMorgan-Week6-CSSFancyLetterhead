@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: white;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-color: red;
+}
+
+.top {
+  background-image: url(https://i.ibb.co/WPZ8rvM/top-image.png);
+  margin-right: 4px;
+  padding-top: 100px;
+  padding-left: 420px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+}
+
+.logo {
+  color: white;
+  padding: 30px;
+  margin-left: 40px;
+  font-size: 18px;
+  background-image: url(https://i.ibb.co/qNVdRyf/logo.png);
+  background-repeat: no-repeat;
+  background-position: 1.5% center;
+  background-size: contain;
+}
+
+address {
+  margin-right: 4px;
+  padding-top: 400px;
+  padding-bottom: 50px;
+  padding-left: 420px;
+  background-image: url(https://i.ibb.co/YcK2Wkp/bottom-image.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+}
